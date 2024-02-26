@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vesta_assignment/static/css/main.3157dd26.css",
+    "main.js": "/vesta_assignment/static/js/main.d8df69ab.js",
+    "static/js/453.95dfbcfa.chunk.js": "/vesta_assignment/static/js/453.95dfbcfa.chunk.js",
+    "index.html": "/vesta_assignment/index.html",
+    "main.3157dd26.css.map": "/vesta_assignment/static/css/main.3157dd26.css.map",
+    "main.d8df69ab.js.map": "/vesta_assignment/static/js/main.d8df69ab.js.map",
+    "453.95dfbcfa.chunk.js.map": "/vesta_assignment/static/js/453.95dfbcfa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3157dd26.css",
+    "static/js/main.d8df69ab.js"
+  ]
+}
